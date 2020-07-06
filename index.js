@@ -30,7 +30,9 @@ function removeLastKitten(name){
   
 }
 
-function 
+function removeFirstKitten(name){
+  
+}
 
 
 
